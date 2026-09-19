@@ -1,0 +1,11 @@
+.repo {
+  text-decoration: underline;
+}
+
+.repo:link {
+  color: #0000EE;
+}
+
+.repo:visited {
+  color: #551A8B;
+}
